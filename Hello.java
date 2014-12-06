@@ -1,6 +1,8 @@
 Class Hello {
 
 public void sayHello(){
- System.out.println("Hello pfe challenge");
+
+ System.out.println("Ahla bikom ");
 }
+
 }
